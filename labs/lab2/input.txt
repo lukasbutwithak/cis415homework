@@ -1,0 +1,4 @@
+hello ; this file ; should end ; now
+end
+
+exit

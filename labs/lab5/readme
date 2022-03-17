@@ -1,0 +1,14 @@
+NAME: Lukas Hanson
+DATE: 2020/11/06
+CLASS: CIS 415
+PROJECT: Lab 5
+
+My version of lab 5 was built on top of lab 4. You run it by typing the following command on the command line:
+
+./a.out 5
+
+You can make ./a.out by typing the following command on the command line:
+
+make
+
+It runs iobound as its command, so an iobound file needs to be included in the directory it is run in.
